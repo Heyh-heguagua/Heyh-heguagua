@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Heyh-heguagua
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Linux目录结构
+|name|explain|
+|---------|--|
+|/bin|是Binary的缩写，存放最经常使用的命令  |
+|/sbin|Super User，存放系统管理员使用的系统管理程序|
+|/home|存放普通用户的主目录，在Linux中都有|
+|/root         |系统管理管，称作超级权限者的用户主目录  |
+|/lib|系统开机需要的最基本的动态连接共享库，类似于Windows的DLL文件，几乎所有应用程序都有用到这些共享库|
+|/lost+found|一般是空的，当系统非法关机后，就会存放一些文件|
 
-<!---
-Heyh-heguagua/Heyh-heguagua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
