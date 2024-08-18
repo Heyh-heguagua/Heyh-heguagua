@@ -1,5 +1,6 @@
 # Linux学习笔记
-## Linux目录结构
+## Linux基础篇
+### Linux目录结构
 |name|explain|
 |---------|--|
 |/bin|是Binary的缩写，存放最经常使用的命令  |
